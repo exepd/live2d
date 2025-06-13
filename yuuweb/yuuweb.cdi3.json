@@ -1,0 +1,240 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "Brow Shape"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "BrowL X"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "BrowR X"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "Boobs X"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "Boobs Y"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "Hair Move Front"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "Hair Move Side"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "Hair Move Back X"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "Hair Move Back Y"
+		},
+		{
+			"Id": "ParamAngleHipsZ",
+			"GroupId": "",
+			"Name": "Hips Z"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "Head Z"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "tiara glow"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "Ear Swing"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "tongue blink"
+		},
+		{
+			"Id": "Param19moodshadow",
+			"GroupId": "",
+			"Name": "mood shadow"
+		},
+		{
+			"Id": "Param19sweat",
+			"GroupId": "",
+			"Name": "sweat"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Eyes"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part5",
+			"Name": "yuuneko v2.1  sweat and shadow 12.42.psd"
+		},
+		{
+			"Id": "Part4",
+			"Name": "cat in spacesuit layers.psd"
+		},
+		{
+			"Id": "Part3",
+			"Name": "hair edits.psd (Corresponding layer not found)"
+		},
+		{
+			"Id": "Part",
+			"Name": "hair edits.psd"
+		},
+		{
+			"Id": "head",
+			"Name": "head"
+		},
+		{
+			"Id": "body",
+			"Name": "body"
+		},
+		{
+			"Id": "Part2",
+			"Name": "left eye"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamBodyAngleX",
+			"ParamBodyAngleY"
+		],
+		[
+			"Param4",
+			"Param5"
+		],
+		[
+			"ParamHairBack",
+			"Param8"
+		]
+	]
+}
